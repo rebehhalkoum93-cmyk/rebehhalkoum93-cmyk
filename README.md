@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a second-year Computer Science student at ESI Algiers (École Nationale Supérieure d’Informatique) with a strong passion for building modern digital products. I work on mobile and web development, focusing on creating clean, functional, and user-friendly applications.
+Second-year Computer Science student at ESI Algiers with a passion for technology and software development. I work on mobile and web applications, focusing on clean design and efficient full-stack solutions using tools like Flutter, JavaScript, Node.js, and Git. I’m currently exploring Artificial Intelligence, Machine Learning, and Cybersecurity, and I’m always open to collaborating on innovative AI and mobile development projects.
+
 
 
 ## 🌐 Socials:
