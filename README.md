@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a second year cs student at  esi algiers, mobile and web designer and full stack develloper loking for collaboration in ai and mobile dev  i have interest in cyber security and currently learning about ai and machine learning
+I am a second-year Computer Science student at ESI Algiers (École Nationale Supérieure d’Informatique) with a strong passion for building modern digital products. I work on mobile and web development, focusing on creating clean, functional, and user-friendly applications.
 
 
 ## 🌐 Socials:
